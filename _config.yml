@@ -26,4 +26,4 @@ gems:
   - jekyll-redirect-from
   - jemoji
   - jekyll-sitemap
-
+  - jekyll-seo-tag
