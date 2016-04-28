@@ -12,10 +12,6 @@ help_url:
 
 timezone: America/Los_Angeles
 
-collections:
-  docs:
-    output: true
-
 name: Skills • Skills Now
 description: Transform your learning into skills
 url: http://skills.ml
