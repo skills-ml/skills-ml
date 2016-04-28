@@ -1,7 +1,6 @@
 markdown: kramdown
 highlighter: rouge
 permalink: /news/:year/:month/:day/:title/
-permalink: /404.md
 excerpt_separator: ""
 
 gauges_id: 
