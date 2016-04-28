@@ -1,0 +1,34 @@
+markdown: kramdown
+highlighter: pygments
+permalink: /news/:year/:month/:day/:title/
+excerpt_separator: ""
+
+gauges_id: 
+google_analytics_id: 
+google_site_verification: 
+
+repository: 
+help_url: 
+
+timezone: America/Los_Angeles
+
+collections:
+  docs:
+    output: true
+
+name: Skills • Skills Now
+description: Transform your learning into skills
+url: http://skills.ml
+
+twitter:
+  username: skills_ml
+
+logo: img/logo-2x.png
+
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-avatar
