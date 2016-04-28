@@ -19,7 +19,7 @@ url: http://skills.ml
 twitter:
   username: skills_ml
 
-logo: img/logo-2x.png
+logo: /img/logo-2x.png
 
 gems:
   - jekyll-feed
